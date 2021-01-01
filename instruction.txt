@@ -1,3 +1,4 @@
 # The instruction for ASD project :
 - Learn how to work with Kanban board
 - Setup CI/CD pipeline
+- Dummy instruction
