@@ -1,2 +1,2 @@
-The instruction for ASD project ...
-
+# The instruction for ASD project :
+- Learn how to work with Kanban board
